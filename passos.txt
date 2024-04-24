@@ -1,0 +1,11 @@
+1. Copiar o projeto cadastroproduto a partir do público
+2. abrir no vscode
+3. criar a tabela de produto no mysql
+   campos: id, produto, unidade, preço, codigo-fornecedor
+   após criar a tabela incluir alguns registros manualmente
+
+3. alterar o código do projeto PHP
+   a) iniciar com o arquivo de conexao
+   b) partir para o arquivo de listagem
+   c) alterar o arquivo de editar
+   d) alterar o arquivo de exclusão
